@@ -5,7 +5,7 @@ import { LuSquareMenu } from "react-icons/lu";
 const Navbar = () => {
   return (
     <div>
-        <div className='bg-[var(--primary)] p-2'>
+        <div className='bg-[var(--primary)] p-2 text-gray-700'>
             <div className='md:w-10/12 mx-auto flex items-center justify-between md:justify-start'>
             <div className='md:w-3/12'>
                <img src={assets.logo_3} alt='logo_3' className='md:w-38 w-28 bg-[var(--secondary)] md:rounded-lg rounded-sm'/>

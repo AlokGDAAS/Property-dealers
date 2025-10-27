@@ -15,7 +15,7 @@ import React from 'react';
 
 export default function WhatsAppButton({
   phone="8433298342",
-  message = 'Hello!',
+  message = 'Hello I am intrested to buy property!',
   size = 'md',
   variant = 'solid',
   className = '',

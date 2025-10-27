@@ -12,7 +12,7 @@ const Card =()=>{
               <img src={assets.plots_1} alt='plots_1' className='md:w-120 rounded-lg'/>
             </div>
             
-            <div className='md:px-8 flex flex-col justify-between  md:w-8/12'>
+            <div className='md:px-8  py-2 px-4 flex flex-col justify-between  md:w-8/12'>
             <div className=''>
                 <p className='text-lg font-semibold text-[var(--gray)]'>Property Type - Plot</p>
                 <p>Available for - sell</p>

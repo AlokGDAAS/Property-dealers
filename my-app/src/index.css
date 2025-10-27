@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root{
+    --primary:gray;
+    --secondary:rgb(195, 206, 235);
+    --ternary:rgb(230, 230, 241);
+    --primary_2:rgb(207, 207, 235);
+    --whats_app:#25D366;
+    --lightest:#ffffff;
+    --darkest:#000000;
+    --gray:rgb(77, 75, 75);
+}
